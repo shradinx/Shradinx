@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello! 👋
 
-<!--
-**shradinx/Shradinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Shradinx!
 
-Here are some ideas to get you started:
+A computer science major creating Python and Java projects for fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on several Minecraft plugins and integrations with mods.
+
+## Languages & Skills (Ranked Most -> Least Experience)
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,cs,mysql,unity,html,css,git,arduino,raspberrypi,gradle,js,kotlin,maven,opencv)](https://skillicons.dev)
+
+## Contact
+Discord: @shradinx
