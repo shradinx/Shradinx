@@ -6,9 +6,25 @@ A computer science major creating Python and Java projects for fun.
 
 Currently working on several Minecraft plugins and integrations with mods.
 
-## Languages & Skills (Ranked Most -> Least Experience)
+## Languages & Skills (Most -> Least Experience)
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cs,mysql,unity,html,css,git,arduino,raspberrypi,gradle,js,kotlin,maven,opencv)](https://skillicons.dev)
+### Programming
+[![My Skills](https://skillicons.dev/icons?i=py,java,cs,kotlin)](https://skillicons.dev)
+
+### Database Management
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+### Game Development
+[![My Skills](https://skillicons.dev/icons?i=unity,gradle,maven)](https://skillicons.dev)
+
+### Web Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+### Robotics / Micro-electronics
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+
+### Other
+[![My Skills](https://skillicons.dev/icons?i=arch,ubuntu,windows,opencv)](https://skillicons.dev)
 
 ## Contact
 Discord: @shradinx
