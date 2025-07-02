@@ -15,7 +15,7 @@ Currently working on several Minecraft plugins and integrations with mods.
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ### Game Development
-[![My Skills](https://skillicons.dev/icons?i=unity,gradle,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 
 ### Web Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
@@ -24,7 +24,7 @@ Currently working on several Minecraft plugins and integrations with mods.
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
 ### Other
-[![My Skills](https://skillicons.dev/icons?i=arch,ubuntu,windows,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,ubuntu,gradle,windows,maven,opencv)](https://skillicons.dev)
 
 ## Contact
 Discord: @shradinx
