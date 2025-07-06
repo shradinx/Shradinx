@@ -24,7 +24,7 @@ Currently working on several Minecraft plugins and integrations with mods.
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
 ### Other
-[![My Skills](https://skillicons.dev/icons?i=arch,ubuntu,gradle,windows,maven,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,ubuntu,gradle,windows,dotnet,maven,opencv)](https://skillicons.dev)
 
 ## Contact
 Discord: @shradinx
