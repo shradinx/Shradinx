@@ -33,4 +33,4 @@ Currently working on several Minecraft plugins and integrations with mods.
 [![My Skills](https://skillicons.dev/icons?i=git,gradle,dotnet,maven,opencv)](https://skillicons.dev)
 
 ## Contact
-[![Discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) : @shradinx
+Discord : @shradinx
