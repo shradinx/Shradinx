@@ -4,7 +4,7 @@
 
 A computer science major creating Python and Java projects for fun.
 
-Currently working on several Minecraft plugins and integrations with mods.
+Currently working on several Minecraft plugins and mods.
 
 ## Languages & Skills (Most -> Least Experience)
 
