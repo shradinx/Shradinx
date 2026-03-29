@@ -9,7 +9,7 @@ Currently working on several Minecraft plugins and integrations with mods.
 ## Languages & Skills (Most -> Least Experience)
 
 ### Programming
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,cs,kotlin,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,c,cs,kotlin,lua)](https://skillicons.dev)
 
 ### Database Management
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
@@ -24,7 +24,7 @@ Currently working on several Minecraft plugins and integrations with mods.
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
 ### IDEs
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,neovim,vim,pycharm,visualstudio,rider)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,neovim,vim,visualstudio,emacs,pycharm,rider)](https://skillicons.dev)
 
 ### Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=arch,linux,windows,ubuntu)](https://skillicons.dev)
@@ -33,4 +33,4 @@ Currently working on several Minecraft plugins and integrations with mods.
 [![My Skills](https://skillicons.dev/icons?i=git,gradle,dotnet,maven,opencv)](https://skillicons.dev)
 
 ## Contact
-Discord: @shradinx
+[![Discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) : @shradinx
