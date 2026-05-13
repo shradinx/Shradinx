@@ -9,7 +9,7 @@ Currently working on several Minecraft plugins and mods.
 ## Skills & Languages
 
 ### Programming
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,c,cs,kotlin,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,c,cs,kotlin,lua&perline=4)](https://skillicons.dev)
 
 ### Database Management
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
@@ -24,7 +24,7 @@ Currently working on several Minecraft plugins and mods.
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
 ### IDEs
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,neovim,vim,visualstudio,emacs,pycharm,rider)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,neovim,vim,visualstudio,emacs,pycharm,rider&perline=4)](https://skillicons.dev)
 
 ### Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=arch,linux,windows,ubuntu)](https://skillicons.dev)
