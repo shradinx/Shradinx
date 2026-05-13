@@ -6,7 +6,7 @@ A computer science major creating Python and Java projects for fun.
 
 Currently working on several Minecraft plugins and mods.
 
-## Languages & Skills (Most -> Least Experience)
+## Skills & Languages
 
 ### Programming
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,c,cs,kotlin,lua)](https://skillicons.dev)
